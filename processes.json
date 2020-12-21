@@ -1,9 +1,9 @@
 {
     "apps": [
       {
-        "name": "blogMange",
-        "cwd": "/",
-        "script": "/config/server.js",
+        "name": "blog-backMange",
+        "cwd": "/root/blog-backMange",
+        "script": "/usr/local/bin/npm",
         "log_date_format": "YYYY-MM-DD HH:mm Z",
         "error_file": "/var/log/node-app/node-app.stderr.log",
         "out_file": "log/node-app.stdout.log",

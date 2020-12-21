@@ -3,7 +3,7 @@
       {
         "name": "blogMange",
         "cwd": "/",
-        "script": "/package.json",
+        "script": "./config/server.js",
         "log_date_format": "YYYY-MM-DD HH:mm Z",
         "error_file": "/var/log/node-app/node-app.stderr.log",
         "out_file": "log/node-app.stdout.log",

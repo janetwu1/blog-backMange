@@ -1,7 +1,7 @@
 {
     "apps": [
       {
-        "name": "blog-backMange",
+        "name": "blogMange",
         "cwd": "/home/fullbook",
         "script": "bin/www",
         "log_date_format": "YYYY-MM-DD HH:mm Z",

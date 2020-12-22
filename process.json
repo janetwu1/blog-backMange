@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "blog-backMange",
+            "script": "/root/blog-backMange/config/server.js",
+            "error_file": "/var/log/nodejs/pm2-err.log",
+            "out_file": "/var/log/nodejs/pm2-out.log",
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        }
+    ]
+}
